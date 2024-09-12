@@ -1,0 +1,26 @@
+body{
+      background-color: black;
+}
+img{
+      
+      border: 5px solid white;
+      height: 260px;
+}
+h1{
+      color: rgb(104, 232, 232);
+      font-size: 3rem;
+      font-family:"Dancing Script", cursive;
+}
+p{
+      color: white;
+}
+h5{
+      color: rgb(104, 232, 232);
+      margin-left: 65%;
+}
+#luffy{
+      margin-top: 15%;
+      text-align: center;
+      
+      height: 160px;
+}
